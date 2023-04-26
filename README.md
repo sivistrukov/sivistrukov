@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivistrukov&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Telegram contact:
-<a href="https://t.me/Sivislav"><img src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=Telegram&logoColor=#26A5E4"/></a>
+<a href="https://t.me/sivistrukov"><img src="https://img.shields.io/badge/Telegram-292929?style=for-the-badge&logo=Telegram&logoColor=#26A5E4"/></a>
