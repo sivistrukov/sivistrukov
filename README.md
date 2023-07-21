@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivistrukov
 - 👀 I’m interested in in web-programming in its other forms.
-- 🌱 I’m currently learning and work in Transbaikal State University (TSU)
+- 🌱 I’m currently learning Transbaikal State University (TSU)
 - 💞️ I’m always open to learning, advices and cooperation.
 - 📫 If you want to contact me, you can write to me in Telegram - @Sivislav.
 
